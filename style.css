@@ -1,12 +1,7 @@
 body{margin:0;font-family:Arial}
 header{display:flex;justify-content:space-between;padding:15px}
 .logo{height:50px}
-.cta{background:#F47A2A;color:#fff;padding:10px;text-decoration:none}
+.cta,.btn{background:#F47A2A;color:#fff;padding:10px;text-decoration:none;margin:5px;display:inline-block}
 .hero{background:#111;color:#fff;text-align:center;padding:100px 20px}
-.btn{background:#F47A2A;color:#fff;padding:12px;text-decoration:none}
 section{padding:40px;text-align:center}
-.cards{display:flex;flex-wrap:wrap;justify-content:center}
-.card{background:#eee;margin:10px;padding:20px;width:200px}
-.cta-section{background:#7A4E8A;color:#fff}
 footer{background:#111;color:#fff;padding:20px}
-.whatsapp{position:fixed;bottom:20px;right:20px;background:#25D366;color:#fff;padding:15px;border-radius:50%}
